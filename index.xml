@@ -1,0 +1,39 @@
+<?xml-stylesheet type="text/xsl" href="sugupuu.xsl"?>
+<sugupuu>
+    <inimene nimi="Elizabeth II" sünniaasta="1926">
+        <inimene nimi="Charles III" sünniaasta="1948">
+            <inimene nimi="William" sünniaasta="1982">
+                <inimene nimi="George" sünniaasta="2013"/>
+                <inimene nimi="Charlotte" sünniaasta="2015"/>
+                <inimene nimi="Louis" sünniaasta="2018"/>
+            </inimene>
+            <inimene nimi="Harry" sünniaasta="1984">
+                <inimene nimi="Archie" sünniaasta="2019"/>
+                <inimene nimi="Lilibet" sünniaasta="2021"/>
+            </inimene>
+        </inimene>
+        <inimene nimi="Anne" sünniaasta="1950">
+            <inimene nimi="Peter" sünniaasta="1977">
+                <inimene nimi="Savannah" sünniaasta="2010"/>
+                <inimene nimi="Isla" sünniaasta="2012"/>
+            </inimene>
+            <inimene nimi="Zara" sünniaasta="1981">
+                <inimene nimi="Mia" sünniaasta="2014"/>
+                <inimene nimi="Lena" sünniaasta="2018"/>
+                <inimene nimi="Lucas" sünniaasta="2021"/>
+            </inimene>
+        </inimene>
+        <inimene nimi="Andrew" sünniaasta="1960">
+            <inimene nimi="Beatrice" sünniaasta="1988">
+                <inimene nimi="Sienna" sünniaasta="2021"/>
+            </inimene>
+            <inimene nimi="Eugenie" sünniaasta="1990">
+                <inimene nimi="August" sünniaasta="2021"/>
+            </inimene>
+        </inimene>
+        <inimene nimi="Edward" sünniaasta="1964">
+            <inimene nimi="Louise" sünniaasta="2003"/>
+            <inimene nimi="James" sünniaasta="2007"/>
+        </inimene>
+    </inimene>
+</sugupuu>
